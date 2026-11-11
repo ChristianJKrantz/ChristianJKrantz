@@ -4,7 +4,7 @@
 
 I'm studying Networking & Cybersecurity at State Technical College of Missouri (AAS, expected May 2028) and looking for an entry-level **Cybersecurity Analyst**, **SOC** or **IT Support** role. My path into tech started with the Full Stack Web Development Boot Camp at UT Austin, which is where the web projects below come from.
 
-[Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [Email](mailto:christiankrantz2000@gmail.com)
+[Portfolio](https://christiankrantz11.github.io/) · [LinkedIn](https://www.linkedin.com/in/christian-krantz-49976b189) · [Email](mailto:christianjkrantz@gmail.com)
 
 ## Certifications
 
