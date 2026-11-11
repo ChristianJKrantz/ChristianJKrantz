@@ -24,6 +24,7 @@ I'm studying Networking & Cybersecurity at State Technical College of Missouri (
 
 | Project | What it does |
 | --- | --- |
+| [Subnet Sprint](https://github.com/ChristianKrantz11/subnet-sprint) | Interactive IPv4 subnetting study game: binary, subnet masks, ANDing and subnet charts, with a built-in scratchpad, calculator and step-by-step guide |
 | [Super Secure Password Generator](https://github.com/ChristianKrantz11/super-secure-password-generator) | Strong passwords from the browser's cryptographically secure random number generator |
 | [Weather Dashboard](https://github.com/ChristianKrantz11/weather-dashboard) | City weather search with current conditions, UV index and a 5-day forecast |
 | [Taskmaster Pro](https://github.com/ChristianKrantz11/taskmaster-pro) | Kanban task board with drag-and-drop, due dates and overdue warnings |
