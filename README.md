@@ -2,7 +2,7 @@
 
 **Cybersecurity & Networking student · CompTIA Security+ certified**
 
-I'm studying Networking & Cybersecurity at State Technical College of Missouri (AAS, expected May 2028) and looking for an entry-level **Cybersecurity Analyst**, **SOC** or **IT Support** role. My path into tech started with the Full Stack Web Development Boot Camp at UT Austin, which is where the web projects below come from.
+I'm studying Networking & Cybersecurity at State Technical College of Missouri (AAS, expected May 2028) and looking for an entry-level **Cybersecurity Analyst**, **SOC** or **IT Support** role. My path into tech started with the Full Stack Web Development Boot Camp from UT Austin Center for Professional Education, which is where most of the web projects below come from.
 
 [Portfolio](https://christianjkrantz.github.io/) · [LinkedIn](https://www.linkedin.com/in/christianjkrantz) · [Email](mailto:christianjkrantz@gmail.com)
 
