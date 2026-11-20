@@ -27,7 +27,8 @@ I'm studying Networking & Cybersecurity at State Technical College of Missouri (
 
 | Project | What it does | Try it |
 | --- | --- | --- |
-| [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Interactive IPv4 subnetting study game: binary, subnet masks, ANDing and subnet charts, with a built-in scratchpad, calculator and step-by-step guide | [Live demo](https://christianjkrantz.github.io/subnet-sprint/) |
+| [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Interactive IPv4 subnetting study game: full subnetting worksheets and VLSM problems, plus quick drills on binary, masks, ANDing and subnet charts, with feedback on common mistakes and a built-in scratchpad, calculator and guide | [Live demo](https://christianjkrantz.github.io/subnet-sprint/) |
+| [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Cisco IOS command practice on a simulated router, switch and PC: drills, ten configuration tasks, a sandbox, and the full Packet Tracer Subnetting Scenario lab | [Live demo](https://christianjkrantz.github.io/no-shutdown/) |
 | [Super Secure Password Generator](https://github.com/ChristianJKrantz/super-secure-password-generator) | Strong passwords from the browser's cryptographically secure random number generator | [Live demo](https://christianjkrantz.github.io/super-secure-password-generator/) |
 | [Weather Dashboard](https://github.com/ChristianJKrantz/weather-dashboard) | City weather search with current conditions, UV index and a 5-day forecast | [Live demo](https://christianjkrantz.github.io/weather-dashboard/) |
 | [Taskmaster Pro](https://github.com/ChristianJKrantz/taskmaster-pro) | Kanban task board with drag-and-drop, due dates and overdue warnings | [Live demo](https://christianjkrantz.github.io/taskmaster-pro/) |
