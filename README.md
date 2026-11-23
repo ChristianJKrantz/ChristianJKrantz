@@ -23,12 +23,21 @@ I'm studying Networking & Cybersecurity at State Technical College of Missouri (
 
 **Web:** JavaScript · HTML · CSS · Node.js
 
-## Featured Projects
+## Study apps
+
+I build these tools alongside my networking, IT support, and algebra coursework. Each runs on its own and saves study progress in the browser.
+
+| Repository | Study task | Live app |
+| --- | --- | --- |
+| [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Work an IPv4 subnet worksheet or VLSM problem, then use Weak spots to retry the steps you missed. | [Open app](https://christianjkrantz.github.io/subnet-sprint/) |
+| [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Practice IOS commands, configure simulated devices, or work a Packet Tracer lab one question at a time. | [Open app](https://christianjkrantz.github.io/no-shutdown/) |
+| [Tier One](https://github.com/ChristianJKrantz/tier-one) | Train for the Windows help desk with lessons, command drills, and support tickets. Missed tickets return to the review queue. | [Open app](https://christianjkrantz.github.io/tier-one/) |
+| [Algebra Quest](https://github.com/ChristianJKrantz/algebra-quest) | Work through college algebra with generated problems, guided hints, written flashcard recall, and review by topic. | [Open app](https://christianjkrantz.github.io/algebra-quest/) |
+
+## Web development projects
 
 | Project | What it does | Try it |
 | --- | --- | --- |
-| [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Interactive IPv4 subnetting study game: full subnetting worksheets and VLSM problems, plus quick drills on binary, masks, ANDing and subnet charts, with feedback on common mistakes and a built-in scratchpad, calculator and guide | [Live demo](https://christianjkrantz.github.io/subnet-sprint/) |
-| [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Cisco IOS command practice on a simulated router, switch and PC: drills, thirteen configuration tasks, a sandbox, and five Packet Tracer labs, from subnetting (Subnetting Scenario, VLSM Design, Subnet an IPv4 Network) to Connect a Router to a LAN and an IPv6 Neighbor Discovery simulation | [Live demo](https://christianjkrantz.github.io/no-shutdown/) |
 | [Super Secure Password Generator](https://github.com/ChristianJKrantz/super-secure-password-generator) | Strong passwords from the browser's cryptographically secure random number generator | [Live demo](https://christianjkrantz.github.io/super-secure-password-generator/) |
 | [Weather Dashboard](https://github.com/ChristianJKrantz/weather-dashboard) | City weather search with current conditions, UV index and a 5-day forecast | [Live demo](https://christianjkrantz.github.io/weather-dashboard/) |
 | [Taskmaster Pro](https://github.com/ChristianJKrantz/taskmaster-pro) | Kanban task board with drag-and-drop, due dates and overdue warnings | [Live demo](https://christianjkrantz.github.io/taskmaster-pro/) |
