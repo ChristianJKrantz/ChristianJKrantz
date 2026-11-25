@@ -25,16 +25,46 @@ I'm looking for an entry-level role as a **SOC Analyst**, **Network/System Admin
 
 **Web:** JavaScript · HTML · CSS · Node.js
 
+<!-- apps:start (generated from apps.json, edit that file instead) -->
 ## Study apps
 
 I build these tools alongside my networking, IT support, and algebra coursework. Each runs on its own and saves study progress in the browser.
 
-| Repository | Study task | Live app |
-| --- | --- | --- |
-| [Subnet Sprint](https://github.com/ChristianJKrantz/subnet-sprint) | Work an IPv4 subnet worksheet or VLSM problem, then use Weak spots to retry the steps you missed. | [Open app](https://christianjkrantz.github.io/subnet-sprint/) |
-| [No Shutdown](https://github.com/ChristianJKrantz/no-shutdown) | Practice IOS commands, configure simulated devices, or work a Packet Tracer lab one question at a time. | [Open app](https://christianjkrantz.github.io/no-shutdown/) |
-| [Tier One](https://github.com/ChristianJKrantz/tier-one) | Train for the Windows help desk with lessons, command drills, and support tickets. Missed tickets return to the review queue. | [Open app](https://christianjkrantz.github.io/tier-one/) |
-| [Algebra Quest](https://github.com/ChristianJKrantz/algebra-quest) | Work through college algebra with generated problems, guided hints, written flashcard recall, and review by topic. | [Open app](https://christianjkrantz.github.io/algebra-quest/) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://christianjkrantz.github.io/subnet-sprint/"><img src="https://christianjkrantz.github.io/assets/img/projects/subnet-sprint.jpg" alt="Subnet Sprint screenshot" width="100%"></a>
+      <br>
+      <strong><a href="https://christianjkrantz.github.io/subnet-sprint/">Subnet Sprint</a></strong> · <a href="https://github.com/ChristianJKrantz/subnet-sprint">repo</a>
+      <br>
+      <sub>Work an IPv4 subnet worksheet or VLSM problem, then use Weak spots to retry the steps you missed.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://christianjkrantz.github.io/no-shutdown/"><img src="https://christianjkrantz.github.io/assets/img/projects/no-shutdown.jpg" alt="No Shutdown screenshot" width="100%"></a>
+      <br>
+      <strong><a href="https://christianjkrantz.github.io/no-shutdown/">No Shutdown</a></strong> · <a href="https://github.com/ChristianJKrantz/no-shutdown">repo</a>
+      <br>
+      <sub>Practice IOS commands, configure simulated devices, or work a Packet Tracer lab one question at a time.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://christianjkrantz.github.io/tier-one/"><img src="https://christianjkrantz.github.io/assets/img/projects/tier-one.jpg" alt="Tier One screenshot" width="100%"></a>
+      <br>
+      <strong><a href="https://christianjkrantz.github.io/tier-one/">Tier One</a></strong> · <a href="https://github.com/ChristianJKrantz/tier-one">repo</a>
+      <br>
+      <sub>Train for the Windows help desk with lessons, command drills, and support tickets. Missed tickets return to the review queue.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://christianjkrantz.github.io/algebra-quest/"><img src="https://christianjkrantz.github.io/assets/img/projects/algebra-quest.jpg" alt="Algebra Quest screenshot" width="100%"></a>
+      <br>
+      <strong><a href="https://christianjkrantz.github.io/algebra-quest/">Algebra Quest</a></strong> · <a href="https://github.com/ChristianJKrantz/algebra-quest">repo</a>
+      <br>
+      <sub>Work through college algebra with generated problems, guided hints, written flashcard recall, and review by topic.</sub>
+    </td>
+  </tr>
+</table>
+<!-- apps:end -->
 
 ## Web development projects
 
