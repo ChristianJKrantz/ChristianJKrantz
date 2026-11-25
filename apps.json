@@ -2,7 +2,7 @@
   "sections": [
     {
       "title": "Study apps",
-      "intro": "I build these tools alongside my networking, IT support, and algebra coursework. Each runs on its own and saves study progress in the browser.",
+      "intro": "I build these tools alongside my coursework. Each runs on its own and saves study progress in the browser.",
       "apps": [
         {
           "name": "Subnet Sprint",
