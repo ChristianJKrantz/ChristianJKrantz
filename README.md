@@ -4,7 +4,7 @@
 
 **Currently:** working through the Networking & Cybersecurity AAS at State Tech and turning my coursework into practice apps.
 
-I'm studying Networking & Cybersecurity at State Technical College of Missouri (AAS, expected May 2028) and looking for an entry-level **SOC Analyst**, **Network/System Administrator**, **Junior Penetration Tester** or **IT Support Specialist** role. My path into tech started with the Full Stack Web Development Boot Camp from UT Austin Center for Professional Education, which is where most of the web projects below come from.
+I'm looking for an entry-level role as a **SOC Analyst**, **Network/System Administrator**, **Junior Penetration Tester** or **IT Support Specialist**. I'll finish my AAS in Networking & Cybersecurity at State Technical College of Missouri in May 2028. I got my start in tech at the UT Austin Full Stack Web Development Boot Camp, and that's where the web projects at the bottom of this page come from.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-christianjkrantz.github.io-0f766e?style=flat-square&logo=githubpages&logoColor=white)](https://christianjkrantz.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-christianjkrantz-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianjkrantz)
