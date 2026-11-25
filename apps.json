@@ -7,22 +7,22 @@
         {
           "name": "Subnet Sprint",
           "slug": "subnet-sprint",
-          "description": "Work an IPv4 subnet worksheet or VLSM problem, then use Weak spots to retry the steps you missed."
+          "description": "Learn subnetting on a guided path: a short lesson for each skill, practice until it sticks, and spaced review. Then work full worksheets, VLSM problems and your weak spots."
         },
         {
           "name": "No Shutdown",
           "slug": "no-shutdown",
-          "description": "Practice IOS commands, configure simulated devices, or work a Packet Tracer lab one question at a time."
+          "description": "Learn Cisco IOS one unit at a time: a short lesson, drills until it sticks, then a checkpoint task on a simulated router or switch. Packet Tracer labs and a free sandbox too."
         },
         {
           "name": "Tier One",
           "slug": "tier-one",
-          "description": "Train for the Windows help desk with lessons, command drills, and support tickets. Missed tickets return to the review queue."
+          "description": "Train for the Windows help desk with lessons, command drills and support tickets. Hints come first, the answer shows after two misses, and missed tickets come back for review."
         },
         {
-          "name": "Algebra Quest",
-          "slug": "algebra-quest",
-          "description": "Work through college algebra with generated problems, guided hints, written flashcard recall, and review by topic."
+          "name": "Algebra Workbook",
+          "slug": "algebra-workbook",
+          "description": "Work through college algebra: every lesson ends with a problem to try yourself, then generated practice with hints, spaced flashcards and review by topic."
         }
       ]
     }

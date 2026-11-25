@@ -28,7 +28,7 @@ I'm looking for an entry-level role as a **SOC Analyst**, **Network/System Admin
 <!-- apps:start (generated from apps.json, edit that file instead) -->
 ## Study apps
 
-I build these tools alongside my coursework. Each runs on its own and saves study progress in the browser.
+I build these tools alongside my networking, IT support, and algebra coursework. Each runs on its own and saves study progress in the browser.
 
 <table>
   <tr>
@@ -37,14 +37,14 @@ I build these tools alongside my coursework. Each runs on its own and saves stud
       <br>
       <strong><a href="https://christianjkrantz.github.io/subnet-sprint/">Subnet Sprint</a></strong> · <a href="https://github.com/ChristianJKrantz/subnet-sprint">repo</a>
       <br>
-      <sub>Work an IPv4 subnet worksheet or VLSM problem, then use Weak spots to retry the steps you missed.</sub>
+      <sub>Learn subnetting on a guided path: a short lesson for each skill, practice until it sticks, and spaced review. Then work full worksheets, VLSM problems and your weak spots.</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://christianjkrantz.github.io/no-shutdown/"><img src="https://christianjkrantz.github.io/assets/img/projects/no-shutdown.jpg" alt="No Shutdown screenshot" width="100%"></a>
       <br>
       <strong><a href="https://christianjkrantz.github.io/no-shutdown/">No Shutdown</a></strong> · <a href="https://github.com/ChristianJKrantz/no-shutdown">repo</a>
       <br>
-      <sub>Practice IOS commands, configure simulated devices, or work a Packet Tracer lab one question at a time.</sub>
+      <sub>Learn Cisco IOS one unit at a time: a short lesson, drills until it sticks, then a checkpoint task on a simulated router or switch. Packet Tracer labs and a free sandbox too.</sub>
     </td>
   </tr>
   <tr>
@@ -53,14 +53,14 @@ I build these tools alongside my coursework. Each runs on its own and saves stud
       <br>
       <strong><a href="https://christianjkrantz.github.io/tier-one/">Tier One</a></strong> · <a href="https://github.com/ChristianJKrantz/tier-one">repo</a>
       <br>
-      <sub>Train for the Windows help desk with lessons, command drills, and support tickets. Missed tickets return to the review queue.</sub>
+      <sub>Train for the Windows help desk with lessons, command drills and support tickets. Hints come first, the answer shows after two misses, and missed tickets come back for review.</sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://christianjkrantz.github.io/algebra-quest/"><img src="https://christianjkrantz.github.io/assets/img/projects/algebra-quest.jpg" alt="Algebra Quest screenshot" width="100%"></a>
+      <a href="https://christianjkrantz.github.io/algebra-workbook/"><img src="https://christianjkrantz.github.io/assets/img/projects/algebra-workbook.jpg" alt="Algebra Workbook screenshot" width="100%"></a>
       <br>
-      <strong><a href="https://christianjkrantz.github.io/algebra-quest/">Algebra Quest</a></strong> · <a href="https://github.com/ChristianJKrantz/algebra-quest">repo</a>
+      <strong><a href="https://christianjkrantz.github.io/algebra-workbook/">Algebra Workbook</a></strong> · <a href="https://github.com/ChristianJKrantz/algebra-workbook">repo</a>
       <br>
-      <sub>Work through college algebra with generated problems, guided hints, written flashcard recall, and review by topic.</sub>
+      <sub>Work through college algebra: every lesson ends with a problem to try yourself, then generated practice with hints, spaced flashcards and review by topic.</sub>
     </td>
   </tr>
 </table>
