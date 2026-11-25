@@ -2,7 +2,7 @@
 
 **Security+ certified networking student. I build the study tools I learn with.**
 
-**Currently:** first year of the Networking & Cybersecurity AAS at State Tech, working through subnetting and Cisco IOS labs, and turning each one into a practice app.
+**Currently:** first year at State Tech, taking Network Fundamentals, Operating Platforms, and System Maintenance, and turning what I learn into practice apps.
 
 I'm studying Networking & Cybersecurity at State Technical College of Missouri (AAS, expected May 2028) and looking for an entry-level **SOC Analyst**, **Network/System Administrator**, **Junior Penetration Tester** or **IT Support Specialist** role. My path into tech started with the Full Stack Web Development Boot Camp from UT Austin Center for Professional Education, which is where most of the web projects below come from.
 
