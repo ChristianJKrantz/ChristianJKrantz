@@ -28,7 +28,7 @@ I'm looking for an entry-level role as a **SOC Analyst**, **Network/System Admin
 <!-- apps:start (generated from apps.json, edit that file instead) -->
 ## Study apps
 
-I build these tools alongside my networking, IT support, and algebra coursework. Each runs on its own and saves study progress in the browser.
+I build these tools alongside my coursework. Each runs on its own and saves study progress in the browser.
 
 <table>
   <tr>
