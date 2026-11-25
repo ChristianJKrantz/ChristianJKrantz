@@ -1,6 +1,8 @@
 # Hi, I'm Christian Krantz
 
-**Cybersecurity & Networking student · CompTIA Security+ certified**
+**Security+ certified networking student. I build the study tools I learn with.**
+
+**Currently:** first year of the Networking & Cybersecurity AAS at State Tech, working through subnetting and Cisco IOS labs, and turning each one into a practice app.
 
 I'm studying Networking & Cybersecurity at State Technical College of Missouri (AAS, expected May 2028) and looking for an entry-level **SOC Analyst**, **Network/System Administrator**, **Junior Penetration Tester** or **IT Support Specialist** role. My path into tech started with the Full Stack Web Development Boot Camp from UT Austin Center for Professional Education, which is where most of the web projects below come from.
 
@@ -36,6 +38,9 @@ I build these tools alongside my networking, IT support, and algebra coursework.
 
 ## Web development projects
 
+<details>
+<summary>Five bootcamp projects from UT Austin (JavaScript, Node.js)</summary>
+
 | Project | What it does | Try it |
 | --- | --- | --- |
 | [Super Secure Password Generator](https://github.com/ChristianJKrantz/super-secure-password-generator) | Strong passwords from the browser's cryptographically secure random number generator | [Live demo](https://christianjkrantz.github.io/super-secure-password-generator/) |
@@ -43,5 +48,7 @@ I build these tools alongside my networking, IT support, and algebra coursework.
 | [Taskmaster Pro](https://github.com/ChristianJKrantz/taskmaster-pro) | Kanban task board with drag-and-drop, due dates and overdue warnings | [Live demo](https://christianjkrantz.github.io/taskmaster-pro/) |
 | [Coding Quiz](https://github.com/ChristianJKrantz/coding-quiz) | Timed JavaScript quiz with time penalties and a high-score board | [Live demo](https://christianjkrantz.github.io/coding-quiz/) |
 | [README Generator](https://github.com/ChristianJKrantz/readme-generator) | Node.js command-line tool that writes a professional README | Command-line app |
+
+</details>
 
 More projects are on my [portfolio](https://christianjkrantz.github.io/#projects).
